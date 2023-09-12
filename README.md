@@ -34,9 +34,13 @@ url = http://localhost:8082/customer/
    The Customer-Service-API project is a web-based API that provides a set of endpoints to perform CRUD operations on customer service-related data.
 
 for create -> /create
+
 for fetch All Data -> /get
+
 for getByID -> /get/(id)
+
 for OrderedBy_cibilScore -> /cibil
+
 for deleteByID -> /delete/id
 
   This endpoints helps to run the application without any circumstances....while running the application do not miss to add /customer as baseuri.
